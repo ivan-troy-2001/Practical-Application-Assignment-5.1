@@ -20,8 +20,7 @@ Jupiter notebook.
 - Drivers who reported low income are more likely to accepts coffee coupons.
 - Students and those who have computer and mathematical occupations are the top groups with highest rate acceptance than other groups.
 
-### Next Steps:
-- 
-
-### Recommendations:
-- 
+### Next Steps and Recommendations:
+- Trying different categorical values encodings to discover new relationships that influence coupon acceptance.
+- Enrich data set with continuos values for ages
+- Experimenting with different subplots to get a better intuition about the data set.
