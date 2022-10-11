@@ -10,10 +10,10 @@ This data comes to us from the UCI Machine Learning repository and was collected
 Jupiter notebook.
 
 ### Findings:
-Bar coupon group
+#### Bar coupon group
 - 
 
-Coffee coupon group
+#### Coffee coupon group
 - 
 
 ### Next Steps:
