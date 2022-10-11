@@ -11,13 +11,13 @@ Jupiter notebook.
 
 ### Findings:
 Bar coupon group
-- 1.
+- 
 
 Coffee coupon group
-- 1.
+- 
 
 ### Next Steps:
-- 1.
+- 
 
 ### Recommendations:
-- 1.
+- 
