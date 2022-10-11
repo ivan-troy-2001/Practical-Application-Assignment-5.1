@@ -11,10 +11,14 @@ Jupiter notebook.
 
 ### Findings:
 #### Bar coupon group
-- 
+- Drivers who go to a bar 3 or fewer times have a higher probability of accepting a bar coupon than those who go more than 3 times.
+- Not having kids as passengers while driving increases the probability of accepting a bar coupon.
+- Drivers who go to cheap restaurants have a low acceptance rate of bar coupons.
 
 #### Coffee coupon group
-- 
+- 21 years old group has the highest acceptance rate than any other group.
+- Drivers who reported low income are more likely to accepts coffee coupons.
+- Students and those who have computer and mathematical occupations are the top groups with highest rate acceptance than other groups.
 
 ### Next Steps:
 - 
